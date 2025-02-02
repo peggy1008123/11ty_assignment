@@ -2,10 +2,11 @@
 layout: layout.liquid
 title: Blog2
 ---
+<div class="blog_content">
 
-## Welcome to **Explorer's Blog**
+## **1_2 Log**
 
-#### **Captain’s Log, Stardate 3292.3**
+{% user 'Captain J' 'Stardate 3291.7' %}
 
 It is the silence that unsettles me most. Not the endless black, nor the yawning chasm of the unknown, but the absolute absence of sound. Even my ship, engineered for efficiency, produces only the softest hum of life support and propulsion.
 
@@ -13,4 +14,5 @@ I send messages back to Earth, though I know the responses will be delayed by ye
 
 Yet, the solitude is also intoxicating. I am free in a way that no human has ever been—unbound by gravity, by time, by the pull of a billion minds tethered to one world. Out here, in the abyss, I am infinite.
 
+</div>
 <!-- ChatGPT, Prompt: "Write a sci-fi blog post from the perspective of a lone human interstellar explorer." -->
